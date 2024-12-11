@@ -10,6 +10,6 @@ return [
 
     'additional_fields' => [],
 
-    'db_connection' => 'kato_logs' 
+    'db_connection' => null 
 
 ];
